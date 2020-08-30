@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BaltoSlavic/static/css/main.1a5eb8d3.chunk.css",
-    "main.js": "/BaltoSlavic/static/js/main.423b488f.chunk.js",
-    "main.js.map": "/BaltoSlavic/static/js/main.423b488f.chunk.js.map",
+    "main.js": "/BaltoSlavic/static/js/main.17e2fb8e.chunk.js",
+    "main.js.map": "/BaltoSlavic/static/js/main.17e2fb8e.chunk.js.map",
     "runtime-main.js": "/BaltoSlavic/static/js/runtime-main.e66789bf.js",
     "runtime-main.js.map": "/BaltoSlavic/static/js/runtime-main.e66789bf.js.map",
     "static/js/2.92a1b528.chunk.js": "/BaltoSlavic/static/js/2.92a1b528.chunk.js",
     "static/js/2.92a1b528.chunk.js.map": "/BaltoSlavic/static/js/2.92a1b528.chunk.js.map",
     "index.html": "/BaltoSlavic/index.html",
-    "precache-manifest.3b6b94ab950d88eb3ea343a1be28ba12.js": "/BaltoSlavic/precache-manifest.3b6b94ab950d88eb3ea343a1be28ba12.js",
+    "precache-manifest.4c3506785ed654753deff8c7feb826f7.js": "/BaltoSlavic/precache-manifest.4c3506785ed654753deff8c7feb826f7.js",
     "service-worker.js": "/BaltoSlavic/service-worker.js",
     "static/css/main.1a5eb8d3.chunk.css.map": "/BaltoSlavic/static/css/main.1a5eb8d3.chunk.css.map",
     "static/js/2.92a1b528.chunk.js.LICENSE.txt": "/BaltoSlavic/static/js/2.92a1b528.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e66789bf.js",
     "static/js/2.92a1b528.chunk.js",
     "static/css/main.1a5eb8d3.chunk.css",
-    "static/js/main.423b488f.chunk.js"
+    "static/js/main.17e2fb8e.chunk.js"
   ]
 }
