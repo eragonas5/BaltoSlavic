@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a178779633805fa6d28b2dda574ebb21",
+    "revision": "6a16f71fc6025046a80966c368ceb7f5",
     "url": "/BaltoSlavic/index.html"
   },
   {
-    "revision": "1cb01fcb7ebd8e61edce",
-    "url": "/BaltoSlavic/static/css/main.5f361e03.chunk.css"
+    "revision": "1c5ce63b70686e7030f7",
+    "url": "/BaltoSlavic/static/css/main.1a5eb8d3.chunk.css"
   },
   {
-    "revision": "b3889e583daa69774785",
-    "url": "/BaltoSlavic/static/js/2.9d023f18.chunk.js"
+    "revision": "dd4677015ffc11a44ee0",
+    "url": "/BaltoSlavic/static/js/2.92a1b528.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/BaltoSlavic/static/js/2.9d023f18.chunk.js.LICENSE.txt"
+    "url": "/BaltoSlavic/static/js/2.92a1b528.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1cb01fcb7ebd8e61edce",
-    "url": "/BaltoSlavic/static/js/main.ac425c75.chunk.js"
+    "revision": "1c5ce63b70686e7030f7",
+    "url": "/BaltoSlavic/static/js/main.423b488f.chunk.js"
   },
   {
     "revision": "7ff49ada5212fc96d579",
