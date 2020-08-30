@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BaltoSlavic/precache-manifest.b3171134dff3a90d20f13b18a9bc051b.js"
+  "/BaltoSlavic/precache-manifest.b972c2972b91ed4b275cd4d5c149d10d.js"
 );
 
 self.addEventListener('message', (event) => {
