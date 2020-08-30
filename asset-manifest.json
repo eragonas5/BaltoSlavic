@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BaltoSlavic/static/css/main.5f361e03.chunk.css",
+    "main.js": "/BaltoSlavic/static/js/main.ac425c75.chunk.js",
+    "main.js.map": "/BaltoSlavic/static/js/main.ac425c75.chunk.js.map",
+    "runtime-main.js": "/BaltoSlavic/static/js/runtime-main.e66789bf.js",
+    "runtime-main.js.map": "/BaltoSlavic/static/js/runtime-main.e66789bf.js.map",
+    "static/js/2.9d023f18.chunk.js": "/BaltoSlavic/static/js/2.9d023f18.chunk.js",
+    "static/js/2.9d023f18.chunk.js.map": "/BaltoSlavic/static/js/2.9d023f18.chunk.js.map",
+    "index.html": "/BaltoSlavic/index.html",
+    "precache-manifest.39c367c60cc25ea7adfb1d7fc78f5fae.js": "/BaltoSlavic/precache-manifest.39c367c60cc25ea7adfb1d7fc78f5fae.js",
+    "service-worker.js": "/BaltoSlavic/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/BaltoSlavic/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9d023f18.chunk.js.LICENSE.txt": "/BaltoSlavic/static/js/2.9d023f18.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/BaltoSlavic/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e66789bf.js",
+    "static/js/2.9d023f18.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ac425c75.chunk.js"
+  ]
+}
